@@ -8,7 +8,7 @@ import { AiOutlineFileDone } from "react-icons/ai";
 const Banner = () => {
   return (
     <div className='w-full h-auto bg-primary'>
-         <div className="container mx-auto flex flex-wrap justify-center  gap-2">
+         <div className="container mx-auto flex flex-wrap justify-center  md:gap-20 gap-5">
             <BannerCard icon={<FaDollarSign size={40} /> } title={"$12+ MN"} info={"Business Impact"}/>
             <BannerCard icon={<PiStudentFill size={40} /> } title={"20+"} info={"Domain Experts"}/>
             <BannerCard icon={<RiGlobalFill size={40} /> } title={"10+"} info={"Global Clients"}/>

@@ -9,7 +9,7 @@ import Member from '../Components/AboutComp/OurTeam/Member'
 
 const About = () => {
   return (
-    <div className='h-screen w-screen'>
+    <div className='h-screen w-screen overflow-x-hidden'>
         <Header/>
         <Hero2/>
         <Values/>

@@ -8,7 +8,7 @@ import { AiTwotoneMessage } from "react-icons/ai";
 import { FaRobot } from "react-icons/fa";
 const Expertise = () => {
   return (
-    <div className="container mx-auto flex flex-wrap justify-center ">
+    <div className="container mx-auto flex flex-wrap justify-center overflow-hidden ">
       <div className="heading flex flex-col items-center justify-center m-2">
         <div className="text-3xl text-primary m-4 text-center">
           OUR EXPERTISE

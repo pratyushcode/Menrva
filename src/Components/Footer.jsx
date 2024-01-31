@@ -7,7 +7,7 @@ import uae from "../assets/uae.png";
 const Footer = () => {
   return (
     <div>
-        <footer className=" bg-white text-black  m-2 md:m-4 p-8">
+        <footer className=" bg-white text-black  m-2 md:m-4 p-8 overflow-hidden">
       <div className="flex flex-wrap justify-between">
         {/* Company Info Column */}
         <div className="w-full md:w-1/3 mb-4 md:mb-0 mt-4">

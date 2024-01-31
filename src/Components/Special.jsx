@@ -6,7 +6,7 @@ import { FaThumbsUp } from "react-icons/fa";
 const Special = () => {
   return (
     
-    <div className="flex flex-col justify-center item-center bg-gray-100  ">
+    <div className="flex flex-col justify-center item-center bg-gray-100 overflow-hidden  ">
         <div className="heading flex flex-col items-center justify-center m-10">
         <div className="text-3xl text-purple-800 m-4 text-center">WHAT MAKES US SPECIAL</div>
       <div className=" w-56 h-[2px] bg-purple-800 mb-2"></div>

@@ -6,7 +6,7 @@ import Footer from '../Components/Footer'
 
 const Contact = () => {
   return (
-    <div className='h-screen w-screen'>
+    <div className='h-screen w-screen overflow-x-hidden'>
         <Header/>
         <div className='flex flex-col justify-center items-center mt-10'>
             <div className='conatctheading text-3xl text-primary  mb-2'>CONTACT US</div>
