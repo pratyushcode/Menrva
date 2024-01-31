@@ -5,7 +5,7 @@ import Founder from "../../assets/Founder.jpg";
 const Hero2 = () => {
   return (
     <div className=" overflow-hidden ">
-      <div className=" md:mx-20 mx-2 overflow-hidden ">
+      <div className=" md:mx-20 mx-1 overflow-hidden ">
         <div className="container mx-auto flex flex-wrap items-center my-10 ">
           <div className="w-full md:w-1/2 max-w-[600px]">
             <img src={IImage} alt="Your Alt Text" className="w-full h-auto " />
